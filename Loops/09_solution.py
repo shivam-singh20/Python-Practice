@@ -4,4 +4,4 @@ for i in items:
     if items.count(i) > 1:
         print(i)
         exit()
-print('All items are unique')
+print('All items are unique') 

@@ -4,4 +4,4 @@ while True:
         print("Valid Input!")
         break
     else:
-        number = int(input("Enter a number: "))
+        number = int(input("Enter a number: ")) 

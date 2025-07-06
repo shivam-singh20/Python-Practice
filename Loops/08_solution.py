@@ -5,4 +5,4 @@ for i in range(2,num):
         print("Number is not prime!")
         exit()
 
-print("Number is prime!")
+print("Number is prime!") 
