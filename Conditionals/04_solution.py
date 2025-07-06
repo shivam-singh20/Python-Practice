@@ -7,4 +7,4 @@ elif color == "Yellow":
 elif color == "Brown":
     print("Overripe")
 else:
-    print("Invalid color")
+    print("Invalid color") 
